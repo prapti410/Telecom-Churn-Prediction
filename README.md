@@ -1,5 +1,6 @@
 # **Enhancing Retention Strategies: Machine Learning for Telecom Customer Churn Prediction**
-Customer churn, or the rate at which customers leave a service, is a major challenge for telecom companies. Retaining customers is often more cost-effective than acquiring new ones, making churn prediction essential. Accurate churn prediction enables telecom providers to proactively address customer needs, enhance satisfaction, and implement targeted retention strategies, ultimately reducing churn and stabilizing revenue.
+Customer churn, or the rate at which customers leave a service, is a major challenge for telecom companies. Retaining customers is often more cost-effective than acquiring new ones, making churn prediction essential. Accurate churn prediction enables telecom providers to proactively address customer needs, enhance satisfaction, and implement targeted retention strategies, ultimately reducing churn and stabilizing revenue. Here is the app link
+https://telecom-churn-prediction-jaihwnu6obw2kmey3dxmpc.streamlit.app/
 
 ## **Project Workflow**
 
